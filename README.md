@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yasmina-bioinfo/yasmina-bioinfo/main/292d12a8-d01f-40d3-be11-258f57e2e840.png" alt="Yasmina Soumahoro — Biologist & Future Bioinformatician" width="100%">
+</p>
+
 <!--
 ✨ Bilingual Academic Profile README — Yasmina Soumahoro
 -->
