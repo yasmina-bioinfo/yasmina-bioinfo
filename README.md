@@ -59,7 +59,8 @@ Je développe des compétences solides en :
 | Project / Projet | Description | Tools / Outils |
 |------------------|--------------|----------------|
 | [PatternMatching](https://github.com/yasmina-bioinfo/PatternMatching) | DNA motif search algorithm / Recherche de motifs dans l’ADN | Python, CSV |
-| [SkewArray](https://github.com/yasmina-bioinfo/SkewArray) *(coming soon)* | GC skew visualization in genomes / Visualisation du déséquilibre GC | Python, Matplotlib |
+| [| [SkewArray](https://github.com/yasmina-bioinfo/SkewArray) | GC skew visualization in genomes / Visualisation du déséquilibre GC dans les génomes | Python, Matplotlib |
+
 
 ---
 
