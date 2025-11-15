@@ -55,13 +55,15 @@ Je développe des compétences solides en :
 
 ---
 
-### 🧪 Mini-Projects / Mini-Projets  
+###🧩 Mini-Projects / Mini-Projets
+
 | Project / Projet | Description | Tools / Outils |
-|------------------|--------------|----------------|
-| [PatternMatching](https://github.com/yasmina-bioinfo/PatternMatching) | DNA motif search algorithm / Recherche de motifs dans l’ADN | Python, CSV |
-| [SkewArray](https://github.com/yasmina-bioinfo/SkewArray) | GC skew visualization in genomes / Visualisation du déséquilibre GC dans les génomes | Python, Matplotlib |
-| [GCContent](https://github.com/yasmina-bioinfo/GC-Content) | GC content analysis in DNA sequences / Analyse du pourcentage de GC dans des séquences ADN | Python, CSV, Matplotlib |
-| 4 | ReverseComplement | EN: Compute the reverse complement of a DNA sequence with validation and file workflow.<br>FR: Calcul du reverse complement d’une séquence ADN avec gestion d’erreurs et lecture/écriture fichiers. | `Python` |
+|------------------|-------------|----------------|
+| [PatternMatching](https://github.com/yasmina-bioinfo/PatternMatching) | DNA motif search algorithm / Recherche de motifs dans l’ADN | `Python`, `CSV` |
+| [SkewArray](https://github.com/yasmina-bioinfo/SkewArray) | GC skew visualization in genomes / Visualisation du déséquilibre GC dans les génomes | `Python`, `Matplotlib` |
+| [GCContent](https://github.com/yasmina-bioinfo/GCContent) | GC content analysis in DNA sequences / Analyse du pourcentage de GC dans des séquences ADN | `Python`, `CSV`, `Matplotlib` |
+| [ReverseComplement](https://github.com/yasmina-bioinfo/ReverseComplement) | EN: Compute the reverse complement of a DNA sequence with validation and file workflow.<br>FR: Calcul du reverse complement d’une séquence ADN avec gestion d’erreurs et lecture/écriture de fichiers. | `Python` |
+
 
 
 
