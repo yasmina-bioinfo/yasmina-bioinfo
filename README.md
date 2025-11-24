@@ -65,6 +65,8 @@ Je développe des compétences solides en :
 | [ReverseComplement](https://github.com/yasmina-bioinfo/ReverseComplement) | EN: Compute the reverse complement of a DNA sequence with validation and file workflow.<br>FR: Calcul du reverse complement d’une séquence ADN avec gestion d’erreurs et lecture/écriture de fichiers. | `Python` |
 | [MotifFinding](https://github.com/yasmina-bioinfo/MotifFinding) | Finding all 1-based motif positions in a DNA sequence (pattern matching). Part of my bioinformatics learning roadmap. | `Python` |
 | [FASTA-Essentials](https://github.com/yasmina-bioinfo/FASTA-Essentials) | Multi-FASTA analysis: GC%, heatmap, boxplot, CSV export. BioPython, Pandas & visualization tools. | `Python` `Biopython` `Pandas` `Matplotlib` `Seaborn` |
+| [Human_Trauma_Epigenetics_GSE72680](https://github.com/yasmina-bioinfo/Human_Trauma_Epigenetics_GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans. Includes raw-to-processed pipeline, metadata extraction, QC, visualisation and PCA. | `Python` `Pandas` `Matplotlib` `Jupyter` |
+
 
 
 
