@@ -66,10 +66,7 @@ Je développe des compétences solides en :
 | [MotifFinding](https://github.com/yasmina-bioinfo/MotifFinding) | Finding all 1-based motif positions in a DNA sequence (pattern matching). Part of my bioinformatics learning roadmap. | `Python` |
 | [FASTA-Essentials](https://github.com/yasmina-bioinfo/FASTA-Essentials) | Multi-FASTA analysis: GC%, heatmap, boxplot, CSV export. BioPython, Pandas & visualization tools. | `Python` `Biopython` `Pandas` `Matplotlib` `Seaborn` |
 | [Human_Trauma_Epigenetics_GSE72680](https://github.com/yasmina-bioinfo/Human_Trauma_Epigenetics_GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans. Includes raw-to-processed pipeline, metadata extraction, QC, visualisation and PCA. | `Python` `Pandas` `Matplotlib` `Jupyter` |
-
-
-
-
+| [GSE147058_DNA_Methylation_Analysis](https://github.com/yasmina-bioinfo/GSE147058_DNA_Methylation_Analysis) | Reproducible workflow testing & exploratory DNA methylation analysis. | `Python` · `Jupyter` · `Pandas` · `Seaborn` · `GEOparse` |
 
 ---
 
