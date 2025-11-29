@@ -9,9 +9,9 @@
 <h1 align="center">👋 Hi, I'm <b>Yasmina Soumahoro</b></h1>
 
 <p align="center">
-  <em>Biologist, Biology educator & future bioinformatician exploring epigenetics in neurobiology and oncology.</em> 🧬  
+  <em>Biologist, Biology educator & future bioinformatician exploring epigenetics in neurobiology.</em> 🧬  
   <br>
-  <em>Biologiste, enseignante passionnée et future bioinformaticienne explorant l’épigénétique en neurobiologie et en oncologie.</em> 🧬
+  <em>Biologiste, enseignante passionnée et future bioinformaticienne explorant l’épigénétique en neurobiologie.</em> 🧬
 </p>
 
 ---
