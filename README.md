@@ -68,6 +68,7 @@ Je développe des compétences solides en :
 | [Human_Trauma_Epigenetics_GSE72680](https://github.com/yasmina-bioinfo/Human_Trauma_Epigenetics_GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans. Includes raw-to-processed pipeline, metadata extraction, QC, visualisation and PCA. | `Python` `Pandas` `Matplotlib` `Jupyter` |
 | [GSE147058_DNA_Methylation_Analysis](https://github.com/yasmina-bioinfo/GSE147058_DNA_Methylation_Analysis) | Reproducible workflow testing & exploratory DNA methylation analysis. | `Python` · `Jupyter` · `Pandas` · `Seaborn` · `GEOparse` |
 | [RNAseq_AIRWAY_MINI](https://github.com/yasmina-bioinfo/RNAseq_AIRWAY_MINI) | Full RNA-seq workflow: library QC, log2(CPM), PCA, DESeq2, annotated DEGs, volcano & heatmap. | `Python` `R` |
+| [GSE83931_miniFASTQ](https://github.com/yasmina-bioinfo/GSE83931_miniFASTQ) | Reproducible RNA-seq workflow (Salmon → tximport → DESeq2) on mouse (mm10), built alongside the Johns Hopkins Coursera transcriptomics course. | `R` `Bioconductor` `RNA-seq` |
 
 
 ---
