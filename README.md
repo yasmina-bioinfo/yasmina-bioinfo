@@ -34,16 +34,22 @@ santé humaine et microbiologie, tout en consolidant des bases computationnelles
 ---
 
 ### 🧬 Research Interests / Domaines de recherche  
+
+**Methods & Data Types / Méthodes et types de données**
 - 🧬 **Genomics & Transcriptomics / Génomique et transcriptomique**  
   → RNA-seq analysis, differential expression, temporal and condition-dependent responses  
-- 🧠 **Neurobiology & Stress Biology / Neurobiologie et biologie du stress**  
-  → molecular responses to stress and environmental factors  
+- 🧫 **Epigenomics / Épigénomique**  
+  → DNA methylation, chromatin regulation, gene expression control  
+
+**Biological Systems / Systèmes biologiques**
 - 🦠 **Host–Pathogen Interactions / Interactions hôte–pathogène**  
   → dual RNA-seq, microbial adaptation and host responses  
-- 🧫 **Epigenomics / Épigénomique**  
-  → DNA methylation, chromatin regulation, and gene expression control  
+- 🧠 **Neurobiology & Stress Biology / Neurobiologie et biologie du stress**  
+  → molecular responses to environmental and physiological stressors  
+
+**Computational Framework / Cadre computationnel**
 - 💻 **Computational Biology / Biologie computationnelle**  
-  → reproducible pipelines, algorithmic thinking, genomic data analysis
+  → reproducible pipelines, algorithmic thinking, genomic data analysis  
    
 ---
 
@@ -90,16 +96,19 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 
 ### 🌱 Next Steps / Prochaines étapes  
 
-- Continue developing expertise in **genomics, transcriptomics, and epigenomics**
-- Apply bioinformatics to **neuroscience** and **oncology**  
-- Collaborate on open research linking **biology, computation, and education**
-These next steps aim to further establish bioinformatics as a core tool for addressing complex biological questions.
+- Continue developing expertise in genomics, transcriptomics, and integrative biological data analysis  
+- Apply bioinformatics approaches to questions in human health, disease, and host–microbe interactions  
+- Collaborate on open research linking biology, computation, and education  
+
+These next steps aim to further establish bioinformatics as a core tool for analyzing and interpreting complex biological systems.
 
 **FR 🇫🇷 :**  
-- Approfondir mon expertise en **sciences des données génomiques** et **épigénétique**  
-- Appliquer la bioinformatique à la **neuroscience** et à l’**oncologie**  
-- Collaborer à des projets ouverts reliant **biologie, informatique et éducation**
-Ces prochaines étapes visent à positionner la bioinformatique comme un outil central pour l’analyse et l’interprétation de données biologiques complexes.
+**FR 🇫🇷 :**  
+- Approfondir mon expertise en génomique, transcriptomique et analyse intégrative de données biologiques  
+- Appliquer la bioinformatique à des problématiques de santé humaine, de maladie et d’interactions hôte–microbe  
+- Collaborer à des projets ouverts reliant biologie, informatique et éducation  
+
+Ces prochaines étapes visent à renforcer la bioinformatique en tant qu'outil central pour l’analyse et l’interprétation de systèmes biologiques complexes.
 
 ---
 
@@ -113,8 +122,8 @@ Ces prochaines étapes visent à positionner la bioinformatique comme un outil c
 ---
 
 <p align="center">
-  <em>“Epigenetics teaches us that our experiences leave molecular traces — understanding them is understanding ourselves.”</em>  
+  <em>“Understanding biology today means learning to listen to data.”</em>  
   <br>
-  <em>« L’épigénétique nous enseigne que nos expériences laissent des traces moléculaires — les comprendre, c’est mieux nous comprendre. »</em>  
+  <em>« Comprendre la biologie aujourd’hui, c’est apprendre à écouter les données.»</em>  
   <br>— <b>Yasmina Soumahoro</b>
 </p>
