@@ -50,9 +50,9 @@ santé humaine et microbiologie, tout en consolidant des bases computationnelles
 ### 🧩 Current Learning Path / Parcours d’apprentissage  
 Building solid foundations in:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Genomics](https://img.shields.io/badge/-Genomics-4C8BF5)
 ![Transcriptomics](https://img.shields.io/badge/-Transcriptomics-008080)
-![Computational Biology](https://img.shields.io/badge/-Computational%20Biology-6A5ACD)
 
 - Algorithmic thinking in bioinformatics  
 - Data visualization & reproducible research  
