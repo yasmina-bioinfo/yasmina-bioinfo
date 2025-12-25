@@ -102,8 +102,7 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 
 These next steps aim to further establish bioinformatics as a core tool for analyzing and interpreting complex biological systems.
 
-**FR 🇫🇷 :**  
-**FR 🇫🇷 :**  
+**FR 🇫🇷 :**   
 - Approfondir mon expertise en génomique, transcriptomique et analyse intégrative de données biologiques  
 - Appliquer la bioinformatique à des problématiques de santé humaine, de maladie et d’interactions hôte–microbe  
 - Collaborer à des projets ouverts reliant biologie, informatique et éducation  
