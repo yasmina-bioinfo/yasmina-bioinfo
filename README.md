@@ -11,7 +11,7 @@
 <p align="center">
   <em>Biologist, biology educator & aspiring bioinformatician working across genomics, transcriptomics, and epigenomics.</em>  
   <br>
-  <em>Biologiste, enseignante passionnée et future bioinformaticienne explorant la génomique, la transcriptomique, et l’épigénétique.</em>
+  <em>Biologiste, enseignante passionnée et future bioinformaticienne travaillant à l’interface de la génomique, de la transcriptomique et de l’épigénétique.</em>
 </p>
 
 ---
@@ -21,8 +21,7 @@
 I am a biology teacher transitioning into bioinformatics research, with a strong interest in understanding biological systems through data.
 My work spans **genomics, transcriptomics, epigenomics**, and **host–pathogen interactions**, with a focus on reproducible analysis and biological interpretation.
 
-Through applied projects, I explore how molecular data can inform questions in neuroscience, human health, and microbial biology,
-while building a solid computational foundation to support future doctoral research.
+Through applied projects, I explore how molecular data can inform questions in neuroscience, human health, and microbial biology, while building a solid computational foundation for future doctoral research.
 
 **FR 🇫🇷 :**  
 Je suis enseignante en biologie et je m'oriente vers la recherche en bioinformatique.
@@ -52,20 +51,20 @@ santé humaine et microbiologie, tout en consolidant des bases computationnelles
 Building solid foundations in:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Genomics](https://img.shields.io/badge/-Genomics-4C8BF5)
-![Epigenetics](https://img.shields.io/badge/-Epigenetics-8A2BE2)
-![Data%20Science](https://img.shields.io/badge/-Data%20Science-2E8B57)
+![Transcriptomics](https://img.shields.io/badge/-Transcriptomics-008080)
+![Computational Biology](https://img.shields.io/badge/-Computational%20Biology-6A5ACD)
 
 - Algorithmic thinking in bioinformatics  
 - Data visualization & reproducible research  
-- Genomic data science & Biopython practice  
+- Genomic data science & Biopython practice
+These skills are applied through progressively complex bioinformatics projects using real biological datasets.
 
 **FR 🇫🇷 :**  
 Je développe des compétences solides en :
 - Raisonnement algorithmique appliqué à la bioinformatique  
 - Visualisation et analyse reproductible des données biologiques  
 - Sciences des données génomiques et apprentissage de Biopython
-  
-These skills are applied through progressively complex bioinformatics projects using real biological datasets.
+Ces compétences sont mises en pratique au travers de projets de bioinformatique de plus en plus complexes, basés sur des jeux de données biologiques réels.  
 
 ---
 
@@ -85,19 +84,22 @@ These skills are applied through progressively complex bioinformatics projects u
 | Project / Projet | Description | Tools / Outils |
 |------------------|-------------|----------------|
 | Dual RNA-seq (*Helicobacter pylori* – *Homo sapiens*) | Reproducible dual RNA-seq analysis of host–pathogen transcriptomic responses during *H. pylori* infection, including WT vs KO strains and temporal effects (12h vs 24h). | R, DESeq2 |
-| Human Trauma Epigenetics (GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans, including raw-to-processed pipeline, quality control, visualization and PCA. | Python, Pandas, Matplotlib |
+| Human Trauma Epigenetics (GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans, including raw-to-processed pipeline, quality control, visualization, and PCA. | Python, Pandas, Matplotlib |
 
 ---
 
 ### 🌱 Next Steps / Prochaines étapes  
+
 - Continue developing expertise in **genomics, transcriptomics, and epigenomics**
 - Apply bioinformatics to **neuroscience** and **oncology**  
 - Collaborate on open research linking **biology, computation, and education**
+These next steps aim to further establish bioinformatics as a core tool for addressing complex biological questions.
 
 **FR 🇫🇷 :**  
 - Approfondir mon expertise en **sciences des données génomiques** et **épigénétique**  
 - Appliquer la bioinformatique à la **neuroscience** et à l’**oncologie**  
 - Collaborer à des projets ouverts reliant **biologie, informatique et éducation**
+Ces prochaines étapes visent à positionner la bioinformatique comme un outil central pour l’analyse et l’interprétation de données biologiques complexes.
 
 ---
 
