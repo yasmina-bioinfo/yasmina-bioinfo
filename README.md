@@ -9,31 +9,43 @@
 <h1 align="center">👋 Hi, I'm <b>Yasmina Soumahoro</b></h1>
 
 <p align="center">
-  <em>Biologist, Biology educator & future bioinformatician exploring epigenetics in neurobiology.</em> 🧬  
+  <em>Biologist, biology educator & aspiring bioinformatician working across genomics, transcriptomics, and epigenomics.</em>  
   <br>
-  <em>Biologiste, enseignante passionnée et future bioinformaticienne explorant l’épigénétique en neurobiologie.</em> 🧬
+  <em>Biologiste, enseignante passionnée et future bioinformaticienne explorant la génomique, la transcriptomique, et l’épigénétique.</em>
 </p>
 
 ---
 
 ### 🧠 About Me  
-I’m a biology teacher transitioning into bioinformatics research to explore how **epigenetic mechanisms** influence **neural development**, **stress responses**, and **cancer progression**.  
-I’m passionate about understanding how experiences leave molecular marks that can shape life across generations.  
+
+I am a biology teacher transitioning into bioinformatics research, with a strong interest in understanding biological systems through data.
+My work spans **genomics, transcriptomics, epigenomics**, and **host–pathogen interactions**, with a focus on reproducible analysis and biological interpretation.
+
+Through applied projects, I explore how molecular data can inform questions in neuroscience, human health, and microbial biology,
+while building a solid computational foundation to support future doctoral research.
 
 **FR 🇫🇷 :**  
-Je suis enseignante en biologie et je me reconvertis dans la recherche en bioinformatique afin d’explorer comment les **mécanismes épigénétiques** influencent le **développement neuronal**, la **réponse au stress** et la **progression du cancer**.  
-Je cherche à comprendre comment les expériences de vie peuvent laisser des empreintes moléculaires durables à travers les générations.
+Je suis enseignante en biologie et je m'oriente vers la recherche en bioinformatique.
+Mes projets couvrent la **génomique**, la **transcriptomique**, l’**épigénomique** et les **interactions hôte–pathogène**,
+avec une attention particulière portée à l’analyse reproductible et à l’interprétation biologique.
+
+À travers des projets appliqués, j’explore comment les données moléculaires peuvent éclairer des questions en neurosciences,
+santé humaine et microbiologie, tout en consolidant des bases computationnelles solides en vue d’un doctorat.
 
 ---
 
 ### 🧬 Research Interests / Domaines de recherche  
-- 🧠 **Neuroepigenetics / Neuroépigénétique :** how stress and environment regulate gene expression in the brain  
-  → comment le stress et l’environnement régulent l’expression des gènes dans le cerveau  
-- 🧫 **Cancer Epigenomics / Épigénomique du cancer :** methylation, chromatin remodeling, and tumor biology  
-  → méthylation, remodelage de la chromatine et biologie tumorale  
-- 💻 **Computational Biology / Biologie computationnelle :** genomic data analysis, motif discovery, and sequence patterns  
-  → analyse de données génomiques, recherche de motifs et séquences caractéristiques  
-
+- 🧬 **Genomics & Transcriptomics / Génomique et transcriptomique**  
+  → RNA-seq analysis, differential expression, temporal and condition-dependent responses  
+- 🧠 **Neurobiology & Stress Biology / Neurobiologie et biologie du stress**  
+  → molecular responses to stress and environmental factors  
+- 🦠 **Host–Pathogen Interactions / Interactions hôte–pathogène**  
+  → dual RNA-seq, microbial adaptation and host responses  
+- 🧫 **Epigenomics / Épigénomique**  
+  → DNA methylation, chromatin regulation, and gene expression control  
+- 💻 **Computational Biology / Biologie computationnelle**  
+  → reproducible pipelines, algorithmic thinking, genomic data analysis
+   
 ---
 
 ### 🧩 Current Learning Path / Parcours d’apprentissage  
@@ -51,7 +63,9 @@ Building solid foundations in:
 Je développe des compétences solides en :
 - Raisonnement algorithmique appliqué à la bioinformatique  
 - Visualisation et analyse reproductible des données biologiques  
-- Sciences des données génomiques et apprentissage de Biopython  
+- Sciences des données génomiques et apprentissage de Biopython
+  
+These skills are applied through progressively complex bioinformatics projects using real biological datasets.
 
 ---
 
@@ -76,7 +90,7 @@ Je développe des compétences solides en :
 ---
 
 ### 🌱 Next Steps / Prochaines étapes  
-- Deepen my expertise in **genomic data science** and **epigenetics**  
+- Continue developing expertise in **genomics, transcriptomics, and epigenomics**
 - Apply bioinformatics to **neuroscience** and **oncology**  
 - Collaborate on open research linking **biology, computation, and education**
 
