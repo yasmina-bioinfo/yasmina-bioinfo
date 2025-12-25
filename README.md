@@ -55,7 +55,7 @@ Je développe des compétences solides en :
 
 ---
 
-###🧬 Foundations & Learning Bioinformatics Projects
+### 🧬 Foundations & Learning Bioinformatics Projects
 
 | Project / Projet | Description | Tools / Outils |
 |------------------|-------------|----------------|
