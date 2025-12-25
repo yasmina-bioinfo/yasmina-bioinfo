@@ -55,20 +55,23 @@ Je développe des compétences solides en :
 
 ---
 
-###🧩 Mini-Projects / Mini-Projets
+###🧬 Foundations & Learning Bioinformatics Projects
 
 | Project / Projet | Description | Tools / Outils |
 |------------------|-------------|----------------|
-| [PatternMatching](https://github.com/yasmina-bioinfo/PatternMatching) | DNA motif search algorithm / Recherche de motifs dans l’ADN | `Python`, `CSV` |
-| [SkewArray](https://github.com/yasmina-bioinfo/SkewArray) | GC skew visualization in genomes / Visualisation du déséquilibre GC dans les génomes | `Python`, `Matplotlib` |
-| [GCContent](https://github.com/yasmina-bioinfo/GCContent) | GC content analysis in DNA sequences / Analyse du pourcentage de GC dans des séquences ADN | `Python`, `CSV`, `Matplotlib` |
-| [ReverseComplement](https://github.com/yasmina-bioinfo/ReverseComplement) | EN: Compute the reverse complement of a DNA sequence with validation and file workflow.<br>FR: Calcul du reverse complement d’une séquence ADN avec gestion d’erreurs et lecture/écriture de fichiers. | `Python` |
-| [MotifFinding](https://github.com/yasmina-bioinfo/MotifFinding) | Finding all 1-based motif positions in a DNA sequence (pattern matching). Part of my bioinformatics learning roadmap. | `Python` |
-| [FASTA-Essentials](https://github.com/yasmina-bioinfo/FASTA-Essentials) | Multi-FASTA analysis: GC%, heatmap, boxplot, CSV export. BioPython, Pandas & visualization tools. | `Python` `Biopython` `Pandas` `Matplotlib` `Seaborn` |
-| [Human_Trauma_Epigenetics_GSE72680](https://github.com/yasmina-bioinfo/Human_Trauma_Epigenetics_GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans. Includes raw-to-processed pipeline, metadata extraction, QC, visualisation and PCA. | `Python` `Pandas` `Matplotlib` `Jupyter` |
-| [GSE147058_DNA_Methylation_Analysis](https://github.com/yasmina-bioinfo/GSE147058_DNA_Methylation_Analysis) | Reproducible workflow testing & exploratory DNA methylation analysis. | `Python` · `Jupyter` · `Pandas` · `Seaborn` · `GEOparse` |
-| [GSE83931_miniFASTQ](https://github.com/yasmina-bioinfo/GSE83931_miniFASTQ) | Reproducible RNA-seq workflow (Salmon → tximport → DESeq2) on mouse (mm10), built alongside the Johns Hopkins Coursera transcriptomics course. | `R` `Bioconductor` `RNA-seq` |
+| PatternMatching | DNA motif search algorithm / Recherche de motifs dans l’ADN | Python, CSV |
+| SkewArray | GC skew visualization in genomes / Visualisation du déséquilibre GC dans les génomes | Python, Matplotlib |
+| GCContent | GC content analysis in DNA sequences / Analyse du pourcentage de GC dans les séquences ADN | Python, CSV, Matplotlib |
+| ReverseComplement | Compute the reverse complement of a DNA sequence with validation and file workflow | Python |
+| MotifFinding | Identification of motif positions in DNA sequences (pattern matching) | Python |
+| FASTA-Essentials | Multi-FASTA analysis: GC%, heatmaps, boxplots, CSV export | Python, Biopython, Pandas, Matplotlib |
 
+### 🔬 Applied & Research-Oriented Bioinformatics Projects
+
+| Project / Projet | Description | Tools / Outils |
+|------------------|-------------|----------------|
+| Dual RNA-seq (*Helicobacter pylori* – *Homo sapiens*) | Reproducible dual RNA-seq analysis of host–pathogen transcriptomic responses during *H. pylori* infection, including WT vs KO strains and temporal effects (12h vs 24h). | R, DESeq2 |
+| Human Trauma Epigenetics (GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans, including raw-to-processed pipeline, quality control, visualization and PCA. | Python, Pandas, Matplotlib |
 
 ---
 
