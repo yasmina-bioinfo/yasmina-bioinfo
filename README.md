@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 
 I am a biology teacher and biologist, integrating bioinformatics approaches into my work to study biological systems through data.
 My projects span genomics, transcriptomics, epigenomics, and host–pathogen interactions, with a strong emphasis on reproducible analysis and biological interpretation.
@@ -45,7 +45,7 @@ Je suis enseignante et biologiste, intégrant la bioinformatique comme outil d�
    
 ---
 
-### 🧩 Current Learning Path / Parcours d’apprentissage  
+### Current Learning Path / Parcours d’apprentissage  
 Building solid foundations in:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
