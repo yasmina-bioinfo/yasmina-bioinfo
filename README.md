@@ -18,38 +18,30 @@
 
 ### 🧠 About Me  
 
-I am a biology teacher transitioning into bioinformatics research, with a strong interest in understanding biological systems through data.
-My work spans **genomics, transcriptomics, epigenomics**, and **host–pathogen interactions**, with a focus on reproducible analysis and biological interpretation.
+I am a biology teacher and biologist, integrating bioinformatics approaches into my work to study biological systems through data.
+My projects span genomics, transcriptomics, epigenomics, and host–pathogen interactions, with a strong emphasis on reproducible analysis and biological interpretation.
 
-Through applied projects, I explore how molecular data can inform questions in neuroscience, human health, and microbial biology, while building a solid computational foundation for future doctoral research.
+Through applied projects, I explore how molecular data can inform questions in neuroscience, human health, and microbial biology, while developing strong computational and analytical skills to conduct rigorous biological data analysis and interpretation.
 
 **FR 🇫🇷 :**  
-Je suis enseignante en biologie et je m'oriente vers la recherche en bioinformatique.
-Mes projets couvrent la **génomique**, la **transcriptomique**, l’**épigénomique** et les **interactions hôte–pathogène**,
-avec une attention particulière portée à l’analyse reproductible et à l’interprétation biologique.
+Je suis enseignante et biologiste intégrant la bioinformatique comme outil d’analyse pour étudier les systèmes biologiques à partir des données. Mes projets couvrent la génomique, la transcriptomique, l’épigénomique et les interactions hôte–pathogène, avec une attention particulière portée à l’analyse reproductible et à l’interprétation biologique.
 
-À travers des projets appliqués, j’explore comment les données moléculaires peuvent éclairer des questions en neurosciences,
-santé humaine et microbiologie, tout en consolidant des bases computationnelles solides en vue d’un doctorat.
+À travers des projets appliqués, j’explore comment les données moléculaires peuvent éclairer des questions en neurosciences, santé humaine et microbiologie, tout en développant des compétences computationnelles et analytiques pour mener des analyses biologiques rigoureuses et interprétables.
 
 ---
 
 ### 🧬 Research Interests / Domaines de recherche  
 
 **Methods & Data Types / Méthodes et types de données**
-- 🧬 **Genomics & Transcriptomics / Génomique et transcriptomique**  
-  → RNA-seq analysis, differential expression, temporal and condition-dependent responses  
-- 🧫 **Epigenomics / Épigénomique**  
-  → DNA methylation, chromatin regulation, gene expression control  
+- 🧬 **Genomics & Transcriptomics** — RNA-seq analysis, differential expression, temporal and condition-dependent responses.
+- 🧫 **Epigenomics / Épigénomique** — DNA methylation, chromatin regulation, gene expression control.  
 
 **Biological Systems / Systèmes biologiques**
-- 🦠 **Host–Pathogen Interactions / Interactions hôte–pathogène**  
-  → dual RNA-seq, microbial adaptation and host responses  
-- 🧠 **Neurobiology & Stress Biology / Neurobiologie et biologie du stress**  
-  → molecular responses to environmental and physiological stressors  
+- 🦠 **Host–Pathogen Interactions / Interactions hôte–pathogène** — dual RNA-seq, microbial adaptation and host responses.  
+- 🧠 **Neurobiology & Stress Biology / Neurobiologie et biologie du stress** — molecular responses to environmental and physiological stressors.  
 
 **Computational Framework / Cadre computationnel**
-- 💻 **Computational Biology / Biologie computationnelle**  
-  → reproducible pipelines, algorithmic thinking, genomic data analysis  
+- 💻 **Computational Biology / Biologie computationnelle** — reproducible pipelines, algorithmic thinking, genomic data analysis.  
    
 ---
 
@@ -96,16 +88,16 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 
 ### 🌱 Next Steps / Prochaines étapes  
 
-- Continue developing expertise in genomics, transcriptomics, and integrative biological data analysis  
-- Apply bioinformatics approaches to questions in human health, disease, and host–microbe interactions  
-- Collaborate on open research linking biology, computation, and education  
+- Continue developing expertise in genomics, transcriptomics, and integrative biological data analysis.  
+- Apply bioinformatics approaches to questions in human health, disease, and host–microbe interactions.  
+- Collaborate on open research linking biology, computation, and education.  
 
 These next steps aim to further establish bioinformatics as a core tool for analyzing and interpreting complex biological systems.
 
 **FR 🇫🇷 :**   
-- Approfondir mon expertise en génomique, transcriptomique et analyse intégrative de données biologiques  
-- Appliquer la bioinformatique à des problématiques de santé humaine, de maladie et d’interactions hôte–microbe  
-- Collaborer à des projets ouverts reliant biologie, informatique et éducation  
+- Approfondir mon expertise en génomique, transcriptomique et analyse intégrative de données biologiques.  
+- Appliquer la bioinformatique à des problématiques de santé humaine, de maladie et d’interactions hôte–microbe.  
+- Collaborer à des projets ouverts reliant biologie, informatique et éducation.
 
 Ces prochaines étapes visent à renforcer la bioinformatique en tant qu'outil central pour l’analyse et l’interprétation de systèmes biologiques complexes.
 
