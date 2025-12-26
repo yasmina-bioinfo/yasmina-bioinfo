@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasmina-bioinfo/yasmina-bioinfo/main/Banniere%20GitHub.png" width="100%">
+  <img src="https://raw.githubusercontent.com/yasmina-bioinfo/yasmina-bioinfo/main/banner.png" width="100%">
 </p>
 
 <!--
