@@ -6,7 +6,7 @@
 ✨ Bilingual Academic Profile README — Yasmina Soumahoro
 -->
 
-<h1 align="center">👋 Hi, I'm <b>Yasmina Soumahoro</b></h1>
+<h1 align="center"> Hi, I'm <b>Yasmina Soumahoro</b></h1>
 
 <p align="center">
   <em>Biologist and biology educator applying computational approaches to explore biological data and complex living systems.</em>  
@@ -24,24 +24,24 @@ My projects span genomics, transcriptomics, epigenomics, and host–pathogen int
 Through applied projects, I explore how molecular data can inform questions in neuroscience, human health, and microbial biology, while developing strong computational and analytical skills to conduct rigorous biological data analysis and interpretation.
 
 **FR 🇫🇷 :**  
-Je suis enseignante et biologiste intégrant la bioinformatique comme outil d’analyse pour étudier les systèmes biologiques à partir des données. Mes projets couvrent la génomique, la transcriptomique, l’épigénomique et les interactions hôte–pathogène, avec une attention particulière portée à l’analyse reproductible et à l’interprétation biologique.
+Je suis enseignante et biologiste, intégrant la bioinformatique comme outil d’analyse pour étudier les systèmes biologiques à partir de données. Mes projets couvrent la génomique, la transcriptomique, l’épigénomique et les interactions hôte–pathogène, avec une attention particulière portée à l’analyse reproductible et à l’interprétation biologique.
 
 À travers des projets appliqués, j’explore comment les données moléculaires peuvent éclairer des questions en neurosciences, santé humaine et microbiologie, tout en développant des compétences computationnelles et analytiques pour mener des analyses biologiques rigoureuses et interprétables.
 
 ---
 
-### 🧬 Research Interests / Domaines de recherche  
+### Research Interests / Domaines de recherche  
 
 **Methods & Data Types / Méthodes et types de données**
-- 🧬 **Genomics & Transcriptomics** — RNA-seq analysis, differential expression, temporal and condition-dependent responses.
-- 🧫 **Epigenomics / Épigénomique** — DNA methylation, chromatin regulation, gene expression control.  
+- **Genomics & Transcriptomics** — RNA-seq analysis, differential expression, temporal and condition-dependent responses.
+- **Epigenomics / Épigénomique** — DNA methylation, chromatin regulation, gene expression control.  
 
 **Biological Systems / Systèmes biologiques**
-- 🦠 **Host–Pathogen Interactions / Interactions hôte–pathogène** — dual RNA-seq, microbial adaptation and host responses.  
-- 🧠 **Neurobiology & Stress Biology / Neurobiologie et biologie du stress** — molecular responses to environmental and physiological stressors.  
+- **Host–Pathogen Interactions / Interactions hôte–pathogène** — dual RNA-seq, microbial adaptation, and host responses.  
+- **Neurobiology & Stress Biology / Neurobiologie et biologie du stress** — molecular responses to environmental and physiological stressors.  
 
 **Computational Framework / Cadre computationnel**
-- 💻 **Computational Biology / Biologie computationnelle** — reproducible pipelines, algorithmic thinking, genomic data analysis.  
+- **Computational Biology / Biologie computationnelle** — reproducible pipelines, algorithmic thinking, genomic data analysis.  
    
 ---
 
@@ -66,7 +66,7 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 
 ---
 
-### 🧬 Foundations & Learning Bioinformatics Projects
+### Foundations & Learning Bioinformatics Projects
 
 | Project / Projet | Description | Tools / Outils |
 |------------------|-------------|----------------|
@@ -77,7 +77,7 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 | MotifFinding | Identification of motif positions in DNA sequences (pattern matching) | Python |
 | FASTA-Essentials | Multi-FASTA analysis: GC%, heatmaps, boxplots, CSV export | Python, Biopython, Pandas, Matplotlib |
 
-### 🔬 Applied & Research-Oriented Bioinformatics Projects
+### Applied & Research-Oriented Bioinformatics Projects
 
 | Project / Projet | Description | Tools / Outils |
 |------------------|-------------|----------------|
@@ -86,7 +86,7 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 
 ---
 
-### 🌱 Next Steps / Prochaines étapes  
+### Next Steps / Prochaines étapes  
 
 - Continue developing expertise in genomics, transcriptomics, and integrative biological data analysis.  
 - Apply bioinformatics approaches to questions in human health, disease, and host–microbe interactions.  
@@ -103,7 +103,7 @@ Ces prochaines étapes visent à renforcer la bioinformatique en tant qu'outil c
 
 ---
 
-### 📫 Connect with Me / Me contacter  
+### Connect with Me / Me contacter  
 <p align="center">
   <a href="mailto:m.yasminasoumahoro@gmail.com"><img src="https://img.shields.io/badge/Email-m.yasminasoumahoro%40gmail.com-blue"></a>
   <a href="https://github.com/yasmina-bioinfo"><img src="https://img.shields.io/badge/GitHub-yasmina--bioinfo-black?logo=github"></a>
