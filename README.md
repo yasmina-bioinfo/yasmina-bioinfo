@@ -9,9 +9,9 @@
 <h1 align="center">👋 Hi, I'm <b>Yasmina Soumahoro</b></h1>
 
 <p align="center">
-  <em>Biologist, biology educator & aspiring bioinformatician working across genomics, transcriptomics, and epigenomics.</em>  
+  <em>Biologist and biology educator applying computational approaches to explore biological data and complex living systems.</em>  
   <br>
-  <em>Biologiste, enseignante passionnée et future bioinformaticienne travaillant à l’interface de la génomique, de la transcriptomique et de l’épigénétique.</em>
+  <em>Biologiste et enseignante en biologie mobilisant des approches computationnelles pour explorer les données biologiques et la complexité du vivant.</em>
 </p>
 
 ---
