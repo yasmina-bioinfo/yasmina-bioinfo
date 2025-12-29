@@ -83,7 +83,7 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 |------------------|-------------|----------------|
 | Dual RNA-seq (*Helicobacter pylori* – *Homo sapiens*) | Reproducible dual RNA-seq analysis of host–pathogen transcriptomic responses during *H. pylori* infection, including WT vs KO strains and temporal effects (12h vs 24h). | R, DESeq2 |
 | Human Trauma Epigenetics (GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans, including raw-to-processed pipeline, quality control, visualization, and PCA. | Python, Pandas, Matplotlib |
-| Viro_InfluenzaA | End-to-end host–pathogen RNA-seq pipeline highlighting interferon-driven antiviral responses | RNA-seq · Host–Pathogen · DESeq2 |
+| Viro_InfluenzaA | End-to-end host–virus RNA-seq analysis highlighting interferon-driven antiviral responses to Influenza A infection | RNA-seq · Host–Virus · Salmon · DESeq2 |
 
 ---
 
