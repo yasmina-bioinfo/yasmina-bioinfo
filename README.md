@@ -85,6 +85,7 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 | Human Trauma Epigenetics (GSE72680) | DNA methylation (Illumina 450K) analysis of trauma exposure in humans, including raw-to-processed pipeline, quality control, visualization, and PCA. | Python, Pandas, Matplotlib |
 | Viro_InfluenzaA | End-to-end host–virus RNA-seq analysis highlighting interferon-driven antiviral responses to Influenza A infection | RNA-seq · Host–Virus · Salmon · DESeq2 |
 | Tcell_Influenza_RNAseq (GSE149689) | Single-cell RNA-seq analysis of human T cells in Influenza infection, including quality control, CD4/CD8 cell scoring, pseudo-bulk construction, and critical assessment of dataset suitability and metadata limitations. | Python, Scanpy, AnnData |
+| scRNA_Influenza_Patients (GSE243629) | Single-cell RNA-seq analysis of peripheral immune cells from Influenza-infected patients, including quality control, cell-type annotation, T cell–focused analyses, pseudo-bulk differential expression, and interpretation of immune responses in clinical human samples. | Python, Scanpy, AnnData, DESeq2 |
 
 ---
 
