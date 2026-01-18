@@ -86,6 +86,7 @@ Ces compétences sont mises en pratique au travers de projets de bioinformatique
 | Viro_InfluenzaA | End-to-end host–virus RNA-seq analysis highlighting interferon-driven antiviral responses to Influenza A infection | RNA-seq · Host–Virus · Salmon · DESeq2 |
 | Tcell_Influenza_RNAseq (GSE149689) | Single-cell RNA-seq analysis of human T cells in Influenza infection, including quality control, CD4/CD8 cell scoring, pseudo-bulk construction, and critical assessment of dataset suitability and metadata limitations. | Python, Scanpy, AnnData |
 | scRNA_Influenza_Patients (GSE243629) | Single-cell RNA-seq analysis of peripheral immune cells from Influenza-infected patients, including quality control, cell-type annotation, T cell–focused analyses, pseudo-bulk differential expression, and interpretation of immune responses in clinical human samples. | Python, Scanpy, AnnData, DESeq2 |
+| scRNA_SjD_Tcells (GSE243629) | Single-cell RNA-seq analysis of PBMC T cells in Sjögren’s disease, focusing on T cell state heterogeneity, disease-enriched and disease-depleted subclusters, and within-state differential expression (SjD vs HD). | Python, Scanpy, AnnData |
 
 ---
 
