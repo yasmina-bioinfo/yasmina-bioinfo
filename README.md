@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasmina-bioinfo/yasmina-bioinfo/main/banner_immuno.png" width="100%">
+  <img src="https://raw.githubusercontent.com/yasmina-bioinfo/yasmina-bioinfo/main/banniere_immuno.png" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm <b>Yasmina Soumahoro</b></h1>
@@ -40,7 +40,7 @@ Through applied projects using bulk and single-cell transcriptomic data, I explo
 
 ## Research & Applied Projects
 
-### scRNA_Lung_Cancer_Tcells
+### scRNA_Lung_Cancer_Tcells (GSE131907)
 Single-cell RNA-seq analysis of immune cells in human lung cancer, focusing on T cell states, tumor versus non-tumor compartments, and transcriptional programs associated with immune dysfunction within the tumor microenvironment.
 
 ### scRNA_SjD_Tcells (GSE243629)
