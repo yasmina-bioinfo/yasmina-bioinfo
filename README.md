@@ -52,10 +52,10 @@ Single-cell RNA-seq analysis of peripheral immune cells from Influenza-infected 
 ### Tcell_Influenza_RNAseq (GSE149689)
 Single-cell RNA-seq analysis of human T cells during Influenza infection, including quality control, CD4/CD8 scoring, pseudobulk construction, and critical assessment of dataset suitability and metadata limitations.
 
-### Viro_InfluenzaA
+### Viro_InfluenzaA (GSE154596)
 End-to-end host–virus RNA-seq analysis highlighting interferon-driven antiviral responses to Influenza A infection.
 
-### Dual RNA-seq (*Helicobacter pylori* – *Homo sapiens*)
+### Dual RNA-seq (*Helicobacter pylori* – *Homo sapiens*) (GSE243405)
 Reproducible dual RNA-seq analysis of host–pathogen transcriptomic responses during *H. pylori* infection, including WT vs KO strains and temporal effects.
 
 ---
