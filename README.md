@@ -18,10 +18,10 @@
 
 ### About Me  
 
-I am a biology teacher and biologist, integrating bioinformatics approaches into my work to study biological systems through data.
-My projects span genomics, transcriptomics, epigenomics, and host–pathogen interactions, with a strong emphasis on reproducible analysis and biological interpretation.
+I am a biologist and biology educator working at the interface of experimental biology and data-driven analysis.
+My research interests focus on human immunology, particularly T cell biology and immune cell functional states across disease contexts such as infection, autoimmunity, and cancer. 
 
-Through applied projects, I explore how molecular data can inform questions in neuroscience, human health, and microbial biology, while developing strong computational and analytical skills to conduct rigorous biological data analysis and interpretation.
+Through applied projects using bulk and single-cell transcriptomic data, I explore how immune cell states are shaped by their environment, with an emphasis on biological interpretation and reproducible analysis.
 
 **FR 🇫🇷 :**  
 Je suis enseignante et biologiste, intégrant la bioinformatique comme outil d’analyse pour étudier les systèmes biologiques à partir de données. Mes projets couvrent la génomique, la transcriptomique, l’épigénomique et les interactions hôte–pathogène, avec une attention particulière portée à l’analyse reproductible et à l’interprétation biologique.
@@ -30,18 +30,22 @@ Je suis enseignante et biologiste, intégrant la bioinformatique comme outil d�
 
 ---
 
-### Research Interests / Domaines de recherche  
+### Research Interests
 
-**Methods & Data Types / Méthodes et types de données**
-- **Genomics & Transcriptomics** — RNA-seq analysis, differential expression, temporal and condition-dependent responses.
-- **Epigenomics / Épigénomique** — DNA methylation, chromatin regulation, gene expression control.  
+**Biology Focus**
+- Human immunology and T cell biology
+- Immune responses in infection, autoimmunity, and cancer
+- Tumor microenvironment and immune dysfunction
 
-**Biological Systems / Systèmes biologiques**
-- **Host–Pathogen Interactions / Interactions hôte–pathogène** — dual RNA-seq, microbial adaptation, and host responses.  
-- **Neurobiology & Stress Biology / Neurobiologie et biologie du stress** — molecular responses to environmental and physiological stressors.  
+**Methods & Data Types** 
+- Bulk RNA-seq
+- Single-cell RNA-seq
+- Pseudo-bulk and comparative transcriptomic analyses
 
-**Computational Framework / Cadre computationnel**
-- **Computational Biology / Biologie computationnelle** — reproducible pipelines, algorithmic thinking, genomic data analysis.  
+**Computational Framework**
+- Reproducible pipelines
+- Data visualization and interpretation
+- Python/R-based analysis workflows
    
 ---
 
