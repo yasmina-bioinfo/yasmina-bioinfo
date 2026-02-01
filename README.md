@@ -40,6 +40,9 @@ Through applied projects using bulk and single-cell transcriptomic data, I explo
 
 ## Research & Applied Projects
 
+### scRNA_LUAD_Immunotherapy (GSE207422) 
+Integrated single-cell and bulk RNA-seq analysis of immune cell states in non-small cell lung cancer patients treated with immune checkpoint inhibitors, with a focus on T cell functional programs associated with clinical response (PR vs SD).
+
 ### scRNA_Lung_Cancer_Tcells (GSE131907)
 Single-cell RNA-seq analysis of immune cells in human lung cancer, focusing on T cell states, tumor versus non-tumor compartments, and transcriptional programs associated with immune dysfunction within the tumor microenvironment.
 
