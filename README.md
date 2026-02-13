@@ -22,7 +22,7 @@ Through applied projects using bulk and single-cell transcriptomic data, I explo
 ## Research Interests
 
 ### Biological Focus
-- Human immunology and T cell biology  
+- Immune cells biology  
 - Immune responses in infection, autoimmunity, and cancer  
 - Tumor microenvironment and immune dysfunction  
 
@@ -49,13 +49,13 @@ Single-cell RNA-seq analysis of immune cells in human lung cancer, focusing on T
 ### scRNA_SjD_Tcells (GSE243629)
 Single-cell RNA-seq analysis of PBMC T cells in Sjögren’s disease, focusing on T cell state heterogeneity, disease-enriched and disease-depleted subclusters, and within-state differential expression (SjD vs healthy donors).
 
-### scRNA_Influenza_Patients (GSE243629)
+### scRNA_InfluenzaA (GSE243629)
 Single-cell RNA-seq analysis of peripheral immune cells from Influenza-infected patients, including quality control, cell-type annotation, T cell–focused analyses, pseudobulk differential expression, and interpretation of immune responses in clinical human samples.
 
 ### Tcell_Influenza_RNAseq (GSE149689)
 Single-cell RNA-seq analysis of human T cells during Influenza infection, including quality control, CD4/CD8 scoring, pseudobulk construction, and critical assessment of dataset suitability and metadata limitations.
 
-### Viro_InfluenzaA (GSE154596)
+### InfluenzaA_RNAseq (GSE154596)
 End-to-end host–virus RNA-seq analysis highlighting interferon-driven antiviral responses to Influenza A infection.
 
 ### Dual RNA-seq (*Helicobacter pylori* – *Homo sapiens*) (GSE243405)
