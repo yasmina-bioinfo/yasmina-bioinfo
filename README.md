@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <b>Yasmina Soumahoro</b></h1>
 
 <p align="center">
-  <em>Uncovering immune biology through data-driven discovery</em>
+  <em>Exploring immune biology through transcriptomic analysis</em>
 </p>
 
 ---
@@ -13,9 +13,7 @@
 ## About Me
 
 I am a biologist and biology educator working at the interface of experimental biology and data-driven analysis.  
-My research interests focus on human immunology, particularly T cell biology and immune cell functional states across disease contexts such as infection, autoimmunity, and cancer.
-
-Through applied projects using bulk and single-cell transcriptomic data, I explore how immune cell states are shaped by their environment, with an emphasis on biological interpretation, reproducible analysis, and hypothesis-driven research.
+My research interests focus on human immunology, particularly T cell biology and immune cell functional states across disease contexts such as infection, autoimmunity, and cancer. Through applied projects using bulk and single-cell transcriptomic data, I explore how immune cell states are shaped by their environment, with an emphasis on biological interpretation, reproducible workflows, and hypothesis-driven research.
 
 ---
 
@@ -46,7 +44,7 @@ Integrated single-cell and bulk RNA-seq analysis of immune cell states in non-sm
 ### scRNA_Lung_Cancer_Tcells (GSE131907)
 Single-cell RNA-seq analysis of immune cells in human lung cancer, focusing on T cell states, tumor versus non-tumor compartments, and transcriptional programs associated with immune dysfunction within the tumor microenvironment.
 
-### scRNA_SjD_Tcells (GSE243629)
+### scRNA_SjD_Tcells (GSE253568)
 Single-cell RNA-seq analysis of PBMC T cells in Sjögren’s disease, focusing on T cell state heterogeneity, disease-enriched and disease-depleted subclusters, and within-state differential expression (SjD vs healthy donors).
 
 ### scRNA_InfluenzaA (GSE243629)
@@ -80,9 +78,9 @@ Projects developed to build solid foundations in computational biology and repro
 
 ## Current Focus
 
-- Deepening biological interpretation of transcriptomic data in human disease  
-- Integrating single-cell analyses with immunological questions  
-- Developing reproducible and hypothesis-driven research workflows  
+- Deepening biological interpretation of transcriptomic data in human disease
+- Integrating single-cell analyses with immunological questions
+- Preparing a PhD application in tumor immunology 
 
 ---
 
