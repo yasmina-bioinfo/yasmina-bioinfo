@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a biologist and biology educator working at the interface of experimental biology and data-driven analysis.  
+I am a biologist and biology educator working at the interface of experimental biology and computational transcriptomic analysis.  
 My research interests focus on human immunology, particularly T cell biology and immune cell functional states across disease contexts such as infection, autoimmunity, and cancer. Through applied projects using bulk and single-cell transcriptomic data, I explore how immune cell states are shaped by their environment, with an emphasis on biological interpretation, reproducible workflows, and hypothesis-driven research.
 
 ---
