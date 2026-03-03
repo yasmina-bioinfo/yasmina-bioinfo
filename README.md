@@ -38,6 +38,9 @@ My research interests focus on human immunology, particularly T cell biology and
 
 ## Research & Applied Projects
 
+### CD8_NSCLC_scRNAseq (GSE131907, GSE207422)
+Two-dataset single-cell RNA-seq portfolio examining CD8 T cell exhaustion in lung adenocarcinoma and its association with anti-PD-1 immunotherapy response in NSCLC, with cross-dataset synthesis based on shared exhaustion signatures.
+
 ### scRNA_LUAD_Immunotherapy (GSE207422) 
 Integrated single-cell and bulk RNA-seq analysis of immune cell states in non-small cell lung cancer patients treated with immune checkpoint inhibitors, with a focus on T cell functional programs associated with clinical response (PR vs SD).
 
