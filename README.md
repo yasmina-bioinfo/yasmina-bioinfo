@@ -5,62 +5,60 @@
 <h1 align="center">Hi, I'm <b>Yasmina Soumahoro</b></h1>
 
 <p align="center">
-  <em>Exploring immune biology through transcriptomic analysis</em>
+  <em>Immune cell states in human disease, read through single-cell transcriptomics</em>
 </p>
 
 ---
 
 ## About Me
 
-I am a biologist and biology educator working at the interface of experimental biology and computational transcriptomic analysis.  
-My research interests focus on human immunology, particularly T cell biology and immune cell functional states across disease contexts such as infection, autoimmunity, and cancer. Through applied projects using bulk and single-cell transcriptomic data, I explore how immune cell states are shaped by their environment, with an emphasis on biological interpretation, reproducible workflows, and hypothesis-driven research.
+I am a biologist and biology educator working at the interface of experimental immunology and computational transcriptomic analysis. My current work is a single-cell study of the tumor microenvironment in non-small cell lung cancer under neoadjuvant PD-1 blockade, comparing immune organisation between lung adenocarcinoma and lung squamous cell carcinoma (manuscript in preparation).
+
+My interests centre on human immunology — T cell functional states, myeloid programs, and how both are shaped by their tissue context in infection, autoimmunity, and cancer. Across projects, I place equal weight on biological interpretation and on methodological rigour: patient-level statistics rather than cell-level pseudoreplication, documented parameter choices, and pipelines that another person can rerun.
 
 ---
 
-## Research Interests
+## Featured Work
 
-### Biological Focus
-- Immune cells biology  
-- Immune responses in infection, autoimmunity, and cancer  
-- Tumor microenvironment and immune dysfunction  
+### Immune microenvironment of LUAD versus LUSC under neoadjuvant anti-PD-1 (GSE243013)
 
-### Methods & Data Types
-- Bulk RNA-seq  
-- Single-cell RNA-seq  
-- Pseudobulk and comparative transcriptomic analyses  
+Single-cell analysis of tumor-infiltrating CD45+ immune cells across two NSCLC histologies, asking whether lung adenocarcinoma and lung squamous cell carcinoma organise their immune compartment differently under the same therapeutic pressure. Response to treatment (major pathological response versus non-response) is analysed as a secondary axis, used to test the robustness of the histology comparison rather than as the primary question.
 
-### Computational Framework
-- Reproducible analysis workflows  
-- Data visualization and biological interpretation  
-- Python- and R-based analysis pipelines  
+**Repository:** [`TAM_CD8_LUAD_LUSC_scRNAseq`](https://github.com/yasmina-bioinfo/TAM_CD8_LUAD_LUSC_scRNAseq) · Manuscript in preparation
+
+- **Nine-block pipeline**, from raw matrix loading to differential cell–cell communication, each block documented with its parameters and the rationale behind them.
+- **TME annotation** with CellTypist (`Immune_All_Low`), validated cluster by cluster against canonical markers.
+- **CD8 T cell compartment**: ProjecTILs subtyping, UCell signature scoring, transcription factor activity via decoupleR/CollecTRI, and TCR repertoire analysis with scRepertoire.
+- **Tumor-associated macrophages**: scGate purification, phenotyping against three published frameworks, metabolic programs, and a full-lineage sensitivity analysis.
+- **Cell–cell communication**: MultiNicheNet, both contrast directions declared explicitly, with the authors' geneset-to-background diagnostic run before interpretation.
+- **Patient-level throughout.** An apparent difference in macrophage abundance between histologies was traced to pseudoreplication in an early cell-level test and did not survive patient-level retesting. The correction is documented in the repository rather than quietly removed.
 
 ---
 
-## Research & Applied Projects
+## Applied Projects
 
-### CD8_NSCLC_scRNAseq (GSE131907, GSE207422)
-Two-dataset single-cell RNA-seq portfolio examining CD8 T cell exhaustion in lung adenocarcinoma and its association with anti-PD-1 immunotherapy response in NSCLC, with cross-dataset synthesis based on shared exhaustion signatures.
+| Project | Dataset | Focus |
+|---|---|---|
+| **CD8_NSCLC_scRNAseq** | GSE131907 + GSE207422 | Cross-dataset synthesis of CD8 exhaustion in lung adenocarcinoma and its association with anti-PD-1 response, built on the two analyses below |
+| **scRNA_LUAD_Immunotherapy** | GSE207422 | Integrated single-cell and bulk analysis of T cell functional programs associated with clinical response (PR vs SD) |
+| **scRNA_Lung_Cancer_Tcells** | GSE131907 | T cell states across tumor and non-tumor compartments, and transcriptional programs of immune dysfunction |
+| **scRNA_SjD_Tcells** | GSE253568 | PBMC T cell heterogeneity in Sjögren's disease: enriched and depleted subclusters, within-state differential expression |
+| **scRNA_InfluenzaA** | GSE243629 | Peripheral immune cells in Influenza infection: annotation, T cell analyses, pseudobulk differential expression |
+| **Tcell_Influenza_RNAseq** | GSE149689 | Human T cells during Influenza infection, including a critical assessment of dataset suitability and metadata limitations |
+| **InfluenzaA_RNAseq** | GSE154596 | End-to-end host–virus bulk RNA-seq: interferon-driven antiviral response |
+| **Dual RNA-seq (*H. pylori* – *H. sapiens*)** | GSE243405 | Host–pathogen dual transcriptomics, WT versus KO strains and temporal effects |
 
-### scRNA_LUAD_Immunotherapy (GSE207422) 
-Integrated single-cell and bulk RNA-seq analysis of immune cell states in non-small cell lung cancer patients treated with immune checkpoint inhibitors, with a focus on T cell functional programs associated with clinical response (PR vs SD).
+---
 
-### scRNA_Lung_Cancer_Tcells (GSE131907)
-Single-cell RNA-seq analysis of immune cells in human lung cancer, focusing on T cell states, tumor versus non-tumor compartments, and transcriptional programs associated with immune dysfunction within the tumor microenvironment.
+## Tools & Environment
 
-### scRNA_SjD_Tcells (GSE253568)
-Single-cell RNA-seq analysis of PBMC T cells in Sjögren’s disease, focusing on T cell state heterogeneity, disease-enriched and disease-depleted subclusters, and within-state differential expression (SjD vs healthy donors).
-
-### scRNA_InfluenzaA (GSE243629)
-Single-cell RNA-seq analysis of peripheral immune cells from Influenza-infected patients, including quality control, cell-type annotation, T cell–focused analyses, pseudobulk differential expression, and interpretation of immune responses in clinical human samples.
-
-### Tcell_Influenza_RNAseq (GSE149689)
-Single-cell RNA-seq analysis of human T cells during Influenza infection, including quality control, CD4/CD8 scoring, pseudobulk construction, and critical assessment of dataset suitability and metadata limitations.
-
-### InfluenzaA_RNAseq (GSE154596)
-End-to-end host–virus RNA-seq analysis highlighting interferon-driven antiviral responses to Influenza A infection.
-
-### Dual RNA-seq (*Helicobacter pylori* – *Homo sapiens*) (GSE243405)
-Reproducible dual RNA-seq analysis of host–pathogen transcriptomic responses during *H. pylori* infection, including WT vs KO strains and temporal effects.
+| | |
+|---|---|
+| **Languages** | R 4.4.1, Python 3.14 |
+| **Single-cell core** | Seurat v5, Harmony, BPCells, CellTypist, ProjecTILs, scGate |
+| **Functional analysis** | UCell, decoupleR / CollecTRI, presto, pseudobulk differential expression (DESeq2, edgeR) |
+| **Repertoire & communication** | scRepertoire, MultiNicheNet |
+| **Reproducibility** | renv lockfiles, `here`-managed relative paths, versioned scripts and structured project documentation |
 
 ---
 
@@ -69,7 +67,7 @@ Reproducible dual RNA-seq analysis of host–pathogen transcriptomic responses d
 Projects developed to build solid foundations in computational biology and reproducible analysis, using real biological datasets.
 
 | Project | Description |
-|--------|-------------|
+|---|---|
 | PatternMatching | DNA motif search algorithms |
 | SkewArray | GC skew visualization in genomes |
 | GCContent | GC content analysis in DNA sequences |
@@ -81,9 +79,9 @@ Projects developed to build solid foundations in computational biology and repro
 
 ## Current Focus
 
-- Deepening biological interpretation of transcriptomic data in human disease
-- Integrating single-cell analyses with immunological questions
-- Preparing a PhD application in tumor immunology 
+- Finalising the LUAD versus LUSC tumor microenvironment manuscript
+- Extending single-cell analysis toward integrative and multi-modal approaches
+- Preparing a PhD application in tumor immunology
 
 ---
 
@@ -99,11 +97,4 @@ Projects developed to build solid foundations in computational biology and repro
   <a href="https://linkedin.com/in/yasmina-soumahoro">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
-</p>
-
----
-
-<p align="center">
-  <em>“Understanding biology today means learning to listen to data.”</em><br>
-  — <b>Yasmina Soumahoro</b>
 </p>
