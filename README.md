@@ -14,7 +14,7 @@
 
 I am a biologist and biology educator working at the interface of experimental immunology and computational transcriptomic analysis. My current work is a single-cell study of the tumor microenvironment in non-small cell lung cancer under neoadjuvant PD-1 blockade, comparing immune organisation between lung adenocarcinoma and lung squamous cell carcinoma (manuscript in preparation).
 
-My interests centre on human immunology — T cell functional states, myeloid programs, and how both are shaped by their tissue context in infection, autoimmunity, and cancer. Across projects, I place equal weight on biological interpretation and on methodological rigour: patient-level statistics rather than cell-level pseudoreplication, documented parameter choices, and pipelines that another person can rerun.
+My interests centre on human immunology, T cell functional states, myeloid programs, and how both are shaped by their tissue context in infection, autoimmunity, and cancer. Across projects, I place equal weight on biological interpretation and on methodological rigour: patient-level statistics rather than cell-level pseudoreplication, documented parameter choices, and pipelines that another person can rerun.
 
 ---
 
@@ -27,15 +27,17 @@ Single-cell analysis of tumor-infiltrating CD45+ immune cells across two NSCLC h
 **Repository:** [`TAM_CD8_LUAD_LUSC_scRNAseq`](https://github.com/yasmina-bioinfo/TAM_CD8_LUAD_LUSC_scRNAseq) · Manuscript in preparation
 
 - **Nine-block pipeline**, from raw matrix loading to differential cell–cell communication, each block documented with its parameters and the rationale behind them.
-- **TME annotation** with CellTypist (`Immune_All_Low`), validated cluster by cluster against canonical markers.
-- **CD8 T cell compartment**: ProjecTILs subtyping, UCell signature scoring, transcription factor activity via decoupleR/CollecTRI, and TCR repertoire analysis with scRepertoire.
-- **Tumor-associated macrophages**: scGate purification, phenotyping against three published frameworks, metabolic programs, and a full-lineage sensitivity analysis.
+- **TME annotation** with CellTypist (`Immune_All_Low`; Domínguez Conde et al., 2022), validated against the authors' curated marker sets (Domínguez Conde et al., 2022; Mullan et al., 2023).
+- **CD8 T cell compartment**: ProjecTILs subtyping, UCell signature scoring, and transcription factor activity via decoupleR/CollecTRI.
+- **Tumor-associated macrophages**: scGate purification, and transcription factor activity via decoupleR/CollecTRI
 - **Cell–cell communication**: MultiNicheNet, both contrast directions declared explicitly, with the authors' geneset-to-background diagnostic run before interpretation.
 - **Patient-level throughout.** An apparent difference in macrophage abundance between histologies was traced to pseudoreplication in an early cell-level test and did not survive patient-level retesting. The correction is documented in the repository rather than quietly removed.
 
 ---
 
 ## Applied Projects
+
+Earlier projects, developed while building my methodology. The featured work above reflects my current standards: patient-level statistics, documented parameters and reproducible pipelines.
 
 | Project | Dataset | Focus |
 |---|---|---|
@@ -94,7 +96,7 @@ Projects developed to build solid foundations in computational biology and repro
   <a href="https://github.com/yasmina-bioinfo">
     <img src="https://img.shields.io/badge/GitHub-yasmina--bioinfo-black?logo=github">
   </a>
-  <a href="https://linkedin.com/in/yasmina-soumahoro">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  <a href="https://orcid.org/0009-0009-8549-5340">
+    <img src="https://img.shields.io/badge/ORCID-0009--0009--8549--5340-A6CE39?logo=orcid&logoColor=white">
   </a>
 </p>
