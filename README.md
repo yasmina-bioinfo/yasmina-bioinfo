@@ -12,26 +12,24 @@
 
 ## About Me
 
-I am a biologist and biology educator working at the interface of experimental immunology and computational transcriptomic analysis. My current work is a single-cell study of the tumor microenvironment in non-small cell lung cancer under neoadjuvant PD-1 blockade, comparing immune organisation between lung adenocarcinoma and lung squamous cell carcinoma (manuscript in preparation).
-
-My interests centre on human immunology, T cell functional states, myeloid programs, and how both are shaped by their tissue context in infection, autoimmunity, and cancer. Across projects, I place equal weight on biological interpretation and on methodological rigour: patient-level statistics rather than cell-level pseudoreplication, documented parameter choices, and pipelines that another person can rerun.
+I am a biologist and biology educator with a background in molecular biology, microbiology and immunology, and hands-on training in immunohistochemistry and microscopy. My research orientation is computational tumor immunology: the immune cell populations of the tumor microenvironment that shape response to immune checkpoint blockade, notably CD8 T cells and tumor-associated macrophages, and the signalling between them. My current work is a single-cell study of non-small cell lung cancer under neoadjuvant PD-1 therapy, analysing transcription factor activity and inferred myeloid–CD8 signalling by pathological response in lung adenocarcinoma and lung squamous cell carcinoma.
 
 ---
 
 ## Featured Work
 
-### Immune microenvironment of LUAD versus LUSC under neoadjuvant anti-PD-1 (GSE243013)
+### Transcription factor activity and inferred myeloid–CD8 signaling by pathological response in lung adenocarcinoma and squamous cell carcinoma after neoadjuvant PD-1 therapy
 
-Single-cell analysis of tumor-infiltrating CD45+ immune cells across two NSCLC histologies, asking whether lung adenocarcinoma and lung squamous cell carcinoma organise their immune compartment differently under the same therapeutic pressure. Response to treatment (major pathological response versus non-response) is analysed as a secondary axis, used to test the robustness of the histology comparison rather than as the primary question.
+Single-cell analysis of tumor-infiltrating CD45+ immune cells from patients with non-small cell lung cancer treated with neoadjuvant anti-PD-1 therapy (GSE243013). In lung adenocarcinoma and lung squamous cell carcinoma, analysed separately, the study examines transcription factor activity in CD8 T cells and macrophages, and inferred myeloid–CD8 communication, in relation to pathological response (major pathological response versus non-response).
 
-**Repository:** [`TAM_CD8_LUAD_LUSC_scRNAseq`](https://github.com/yasmina-bioinfo/TAM_CD8_LUAD_LUSC_scRNAseq) · Manuscript in preparation
+**Repository:** [`LUAD_LUSC_CD8_TAM_antiPD1`](https://github.com/yasmina-bioinfo/LUAD_LUSC_CD8_TAM_antiPD1)
 
-- **Nine-block pipeline**, from raw matrix loading to differential cell–cell communication, each block documented with its parameters and the rationale behind them.
+- **Nine-block pipeline** (00 to 08), from raw matrix loading to cell–cell communication, each block documented with its parameters and the rationale behind them.
 - **TME annotation** with CellTypist (`Immune_All_Low`; Domínguez Conde et al., 2022), validated against the authors' curated marker sets (Domínguez Conde et al., 2022; Mullan et al., 2023).
 - **CD8 T cell compartment**: ProjecTILs subtyping, UCell signature scoring, and transcription factor activity via decoupleR/CollecTRI.
-- **Tumor-associated macrophages**: scGate purification, and transcription factor activity via decoupleR/CollecTRI
+- **Tumor-associated macrophages**: scGate purification, and transcription factor activity via decoupleR/CollecTRI.
 - **Cell–cell communication**: MultiNicheNet, both contrast directions declared explicitly, with the authors' geneset-to-background diagnostic run before interpretation.
-- **Patient-level throughout.** An apparent difference in macrophage abundance between histologies was traced to pseudoreplication in an early cell-level test and did not survive patient-level retesting. The correction is documented in the repository rather than quietly removed.
+- **Patient-level throughout.** Comparisons between response groups are run on patients, not cells (Wilcoxon with Benjamini–Hochberg correction), to avoid pseudoreplication.
 
 ---
 
@@ -81,10 +79,9 @@ Projects developed to build solid foundations in computational biology and repro
 
 ## Current Focus
 
-- Finalising the LUAD versus LUSC tumor microenvironment manuscript
-- Extending single-cell analysis toward integrative and multi-modal approaches
-- Preparing a PhD application in tumor immunology
-
+- Preprint: [Transcription factor activity and inferred myeloid–CD8 signaling by pathological response in lung adenocarcinoma and squamous cell carcinoma after neoadjuvant PD-1 therapy](lien-doi), with its reproducible pipeline in [`LUAD_LUSC_CD8_TAM_antiPD1`](https://github.com/yasmina-bioinfo/LUAD_LUSC_CD8_TAM_antiPD1)
+- Extending the analysis of the tumor microenvironment toward spatial context and cell–cell communication
+- Preparing a PhD application in computational tumor immunology
 ---
 
 ## Connect with Me
