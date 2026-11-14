@@ -59,7 +59,7 @@ Earlier projects, developed while building my methodology. The featured work abo
 | **Languages** | R 4.4.1, Python 3.14 |
 | **Single-cell core** | Seurat v5, Harmony, BPCells, CellTypist, ProjecTILs, scGate |
 | **Functional analysis** | UCell, decoupleR / CollecTRI, presto, pseudobulk differential expression (DESeq2, edgeR) |
-| **Repertoire & communication** | scRepertoire, MultiNicheNet |
+| **Communication** | MultiNicheNet |
 | **Reproducibility** | renv lockfiles, `here`-managed relative paths, versioned scripts and structured project documentation |
 
 ---
