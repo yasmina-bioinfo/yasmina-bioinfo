@@ -30,7 +30,7 @@ Single-cell analysis of tumor-infiltrating CD45+ immune cells from patients with
 - **Tumor-associated macrophages**: scGate purification, and transcription factor activity via decoupleR/CollecTRI.
 - **Cell–cell communication**: MultiNicheNet, both contrast directions declared explicitly, with the authors' geneset-to-background diagnostic run before interpretation.
 - **Patient-level throughout.** Comparisons between response groups are run on patients, not cells (Wilcoxon with Benjamini–Hochberg correction), to avoid pseudoreplication.
-
+  
 ---
 
 ## Applied Projects
