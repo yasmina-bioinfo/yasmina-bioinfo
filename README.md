@@ -22,7 +22,8 @@ I am a biologist and biology educator with a background in molecular biology, mi
 
 Single-cell analysis of tumor-infiltrating CD45+ immune cells from patients with non-small cell lung cancer treated with neoadjuvant anti-PD-1 therapy (GSE243013). In lung adenocarcinoma and lung squamous cell carcinoma, analysed separately, the study examines transcription factor activity in CD8 T cells and macrophages, and inferred myeloid–CD8 communication, in relation to pathological response (major pathological response versus non-response).
 
-**Repository:** [`LUAD_LUSC_CD8_TAM_antiPD1`](https://github.com/yasmina-bioinfo/LUAD_LUSC_CD8_TAM_antiPD1)
+**Preprint:** [https://doi.org/10.5281/zenodo.24423380](https://doi.org/10.5281/zenodo.24423380) ·
+**Code:** [`LUAD_LUSC_CD8_TAM_antiPD1`](https://github.com/yasmina-bioinfo/LUAD_LUSC_CD8_TAM_antiPD1) ([DOI](https://doi.org/10.5281/zenodo.24407433))
 
 - **Nine-block pipeline** (00 to 08), from raw matrix loading to cell–cell communication, each block documented with its parameters and the rationale behind them.
 - **TME annotation** with CellTypist (`Immune_All_Low`; Domínguez Conde et al., 2022), validated against the authors' curated marker sets (Domínguez Conde et al., 2022; Mullan et al., 2023).
@@ -79,7 +80,7 @@ Projects developed to build solid foundations in computational biology and repro
 
 ## Current Focus
 
-- Preprint: [Transcription factor activity and inferred myeloid–CD8 signaling by pathological response in lung adenocarcinoma and squamous cell carcinoma after neoadjuvant PD-1 therapy](lien-doi), with its reproducible pipeline in [`LUAD_LUSC_CD8_TAM_antiPD1`](https://github.com/yasmina-bioinfo/LUAD_LUSC_CD8_TAM_antiPD1)
+- Preprint: [Transcription factor activity and inferred myeloid-CD8 signaling by pathological response in lung adenocarcinoma and squamous cell carcinoma after neoadjuvant PD-1 therapy](https://doi.org/10.5281/zenodo.24423380), with its reproducible pipeline in [`LUAD_LUSC_CD8_TAM_antiPD1`](https://github.com/yasmina-bioinfo/LUAD_LUSC_CD8_TAM_antiPD1)
 - Extending the analysis of the tumor microenvironment toward spatial context and cell–cell communication
 - Preparing a PhD application in computational tumor immunology
 ---
