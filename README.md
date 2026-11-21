@@ -18,7 +18,7 @@ I am a biologist and biology educator with a background in molecular biology, mi
 
 ## Featured Work
 
-### Transcription factor activity and inferred myeloid–CD8 signaling by pathological response in lung adenocarcinoma and squamous cell carcinoma after neoadjuvant PD-1 therapy
+### Transcription factor activity and inferred myeloid-CD8 signaling by pathological response in lung adenocarcinoma and squamous cell carcinoma after neoadjuvant PD-1 therapy
 
 Single-cell analysis of tumor-infiltrating CD45+ immune cells from patients with non-small cell lung cancer treated with neoadjuvant anti-PD-1 therapy (GSE243013). In lung adenocarcinoma and lung squamous cell carcinoma, analysed separately, the study examines transcription factor activity in CD8 T cells and macrophages, and inferred myeloid–CD8 communication, in relation to pathological response (major pathological response versus non-response).
 
