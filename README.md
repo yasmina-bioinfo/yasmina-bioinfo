@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a biologist and biology educator with a background in molecular biology, microbiology and immunology, and hands-on training in immunohistochemistry and microscopy. My research orientation is computational cancer biology: how the intracellular programs of tumor microenvironment cells relate to their interactions and to the response to immune checkpoint blockade. My current work is a single-cell study of non-small cell lung cancer under neoadjuvant PD-1 therapy, analysing transcription factor activity and inferred myeloid–CD8 signalling by pathological response in lung adenocarcinoma and lung squamous cell carcinoma.
+I am a biologist and biology educator with a background in molecular biology, microbiology and immunology, and hands-on training in experimental techniques, including immunohistochemistry and microscopy. My research orientation is computational cancer biology: how the intracellular programs of tumor microenvironment cells relate to their interactions and to the response to immune checkpoint blockade. My current work is a single-cell study of non-small cell lung cancer under neoadjuvant PD-1 therapy, analysing transcription factor activity and inferred myeloid–CD8 signalling by pathological response in lung adenocarcinoma and lung squamous cell carcinoma.
 
 ---
 
@@ -82,7 +82,7 @@ Projects developed to build solid foundations in computational biology and repro
 
 - Preprint: [Transcription factor activity and inferred myeloid-CD8 signaling by pathological response in lung adenocarcinoma and squamous cell carcinoma after neoadjuvant PD-1 therapy](https://doi.org/10.5281/zenodo.24423380), with its reproducible pipeline in [`LUAD_LUSC_CD8_TAM_antiPD1`](https://github.com/yasmina-bioinfo/LUAD_LUSC_CD8_TAM_antiPD1)
 - Extending the analysis of the tumor microenvironment toward spatial context and cell–cell communication
-- Preparing a PhD application in computational tumor immunology
+- Preparing a PhD application in computational cancer biology
 ---
 
 ## Connect with Me
